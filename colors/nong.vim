@@ -59,7 +59,7 @@ hi SpellBad       cterm=NONE      ctermfg=160       ctermbg=254
 hi SpellCap       cterm=NONE      ctermfg=160       ctermbg=254
 hi SpellLocal     cterm=NONE      ctermfg=160       ctermbg=254
 hi SpellRare      cterm=NONE      ctermfg=160       ctermbg=254
-hi Statement      cterm=ITALIC    ctermfg=231       ctermbg=NONE
+hi Statement      cterm=NONE      ctermfg=231       ctermbg=NONE
 hi StatusLine     cterm=BOLD      ctermfg=NONE      ctermbg=254
 hi StatusLineNC   cterm=NONE      ctermfg=NONE      ctermbg=246
 hi StorageClass   cterm=NONE      ctermfg=216       ctermbg=NONE
