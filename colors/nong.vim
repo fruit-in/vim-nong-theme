@@ -11,7 +11,7 @@ hi Character      cterm=NONE      ctermfg=103       ctermbg=NONE
 hi Comment        cterm=ITALIC    ctermfg=14        ctermbg=NONE
 hi Conditional    cterm=ITALIC    ctermfg=231       ctermbg=NONE
 hi Constant       cterm=NONE      ctermfg=103       ctermbg=NONE
-hi Cursor         cterm=NONE      ctermfg=NONE      ctermbg=NONE
+hi Cursor         cterm=NONE      ctermfg=236       ctermbg=254
 hi CursorColumn   cterm=NONE      ctermfg=NONE      ctermbg=NONE
 hi CursorLine     cterm=NONE      ctermfg=NONE      ctermbg=16
 hi Debug          cterm=NONE      ctermfg=228       ctermbg=NONE
@@ -27,7 +27,7 @@ hi ErrorMsg       cterm=BOLD      ctermfg=160       ctermbg=NONE
 hi Exception      cterm=ITALIC    ctermfg=231       ctermbg=NONE
 hi Float          cterm=NONE      ctermfg=103       ctermbg=NONE
 hi Function       cterm=ITALIC    ctermfg=217       ctermbg=NONE
-hi Folded         cterm=BOLD      ctermfg=NONE      ctermbg=NONE
+hi Folded         cterm=BOLD      ctermfg=23        ctermbg=152
 hi Identifier     cterm=NONE      ctermfg=138       ctermbg=NONE
 hi Ignore         cterm=NONE      ctermfg=16        ctermbg=NONE
 hi Include        cterm=NONE      ctermfg=69        ctermbg=NONE
@@ -36,10 +36,10 @@ hi Keyword        cterm=ITALIC    ctermfg=231       ctermbg=NONE
 hi Label          cterm=ITALIC    ctermfg=231       ctermbg=NONE
 hi LineNr         cterm=NONE      ctermfg=103       ctermbg=NONE
 hi MatchParen     cterm=NONE      ctermfg=190       ctermbg=246
-hi ModeMsg        cterm=BOLD      ctermfg=NONE      ctermbg=254
+hi ModeMsg        cterm=BOLD      ctermfg=90        ctermbg=254
 hi MoreMsg        cterm=BOLD      ctermfg=NONE      ctermbg=254
 hi NonText        cterm=NONE      ctermfg=NONE      ctermbg=NONE
-hi Normal         cterm=NONE      ctermfg=NONE      ctermbg=NONE
+hi Normal         cterm=NONE      ctermfg=35        ctermbg=NONE
 hi Number         cterm=NONE      ctermfg=103       ctermbg=NONE
 hi Operator       cterm=NONE      ctermfg=231       ctermbg=NONE
 hi Pmenu          cterm=NONE      ctermfg=237       ctermbg=251

@@ -1,18 +1,11 @@
-# vim-nong-theme
-Some colors are set by terminal:
+## Installation
+Copy ```nong.vim``` into your ```~/.vim/colors``` and add the following to your ```~/.vimrc```:
 ```
-foreground = #00ab72
-foreground_bold = #812990
-cursor = #e4e4e4
-cursor_foreground = #303030
-background = #292929
+colorscheme nong
+syntax on
 ```
 
 ## Screenshots
-![](./Screenshot-markdown.png)
-
-![](./Screenshot-nix.png)
-
-![](./Screenshot-php.png)
-
-![](./Screenshot-vim.png)
+![](./screenshots/screenshot1.png)<br>
+![](./screenshots/screenshot2.png)<br>
+![](./screenshots/screenshot3.png)<br>
