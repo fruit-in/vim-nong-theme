@@ -14,6 +14,7 @@ hi Constant       cterm=NONE      ctermfg=103       ctermbg=NONE
 hi Cursor         cterm=NONE      ctermfg=236       ctermbg=254
 hi CursorColumn   cterm=NONE      ctermfg=NONE      ctermbg=NONE
 hi CursorLine     cterm=NONE      ctermfg=NONE      ctermbg=16
+hi CursorLineNr   cterm=NONE      ctermfg=186       ctermbg=NONE
 hi Debug          cterm=NONE      ctermfg=228       ctermbg=NONE
 hi Define         cterm=NONE      ctermfg=69        ctermbg=NONE
 hi Delimiter      cterm=NONE      ctermfg=228       ctermbg=NONE
