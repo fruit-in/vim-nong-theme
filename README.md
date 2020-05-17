@@ -9,3 +9,6 @@ syntax on
 ![](./screenshots/screenshot1.png)<br>
 ![](./screenshots/screenshot2.png)<br>
 ![](./screenshots/screenshot3.png)<br>
+![](./screenshots/screenshot4.png)<br>
+![](./screenshots/screenshot5.png)<br>
+![](./screenshots/screenshot6.png)<br>
