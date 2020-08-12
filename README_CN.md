@@ -1,14 +1,14 @@
 #  vim-nong-theme 
-[中文](./README_CN.md)
+[English](./README.md)
 
-## Installation
-Copy ```nong.vim``` into your ```~/.vim/colors``` and add the following to your ```~/.vimrc```:
+## 安装
+复制`nong.vim`到`~/.vim/colors`目录下，将以下内容添加到`~/.vimrc`中：
 ```
 colorscheme nong
 syntax on
 ```
 
-## Preview
+## 预览
 ![](./screenshots/screenshot1.png)<br>
 ![](./screenshots/screenshot2.png)<br>
 ![](./screenshots/screenshot3.png)<br>
