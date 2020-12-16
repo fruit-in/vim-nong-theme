@@ -10,7 +10,7 @@ hi Boolean          cterm=NONE      ctermfg=103       ctermbg=NONE
 hi Character        cterm=NONE      ctermfg=103       ctermbg=NONE
 hi ColorColumn      cterm=NONE      ctermfg=14        ctermbg=242
 hi Comment          cterm=ITALIC    ctermfg=14        ctermbg=NONE
-hi Conceal          cterm=NONE      ctermfg=NONE      ctermbg=NONE
+hi Conceal          cterm=NONE      ctermfg=228       ctermbg=NONE
 hi Conditional      cterm=ITALIC    ctermfg=231       ctermbg=NONE
 hi Constant         cterm=NONE      ctermfg=103       ctermbg=NONE
 hi Cursor           cterm=NONE      ctermfg=236       ctermbg=254
